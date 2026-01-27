@@ -1,0 +1,2 @@
+KEY = "COFI-WXI-TQY"
+loadstring(game:HttpGet("https://keyexs.com/cofizin/raw"))()
