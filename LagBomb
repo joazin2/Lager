@@ -1,2 +1,1 @@
-KEY = "COFI-WXI-TQY"
-loadstring(game:HttpGet("https://keyexs.com/cofizin/raw"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/SHMdBQyDEvI97Vvm/raw", true))()
